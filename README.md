@@ -1,4 +1,4 @@
-## Hi there
+## Hi there, I'm Anika
 I am an Applied Economics graduate focused on turning data into clear, actionable insights for business and policy decisions. I work primarily with **R**, **SQL**, **Python**, and **Tableau** for econometric modeling, predictive analytics, and dashboarding.
 
 Key projects:
